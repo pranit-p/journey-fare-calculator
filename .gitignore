@@ -3,3 +3,5 @@
 journey-fare-calculator.iml
 lib/
 out/
+journey-calculator-ssh-key
+journey-calculator-ssh-key.pub
