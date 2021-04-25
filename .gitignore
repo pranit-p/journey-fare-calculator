@@ -1,0 +1,5 @@
+#all ignore file
+.idea/
+journey-fare-calculator.iml
+lib/
+out/
